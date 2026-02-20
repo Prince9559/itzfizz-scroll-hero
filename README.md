@@ -7,7 +7,7 @@ The goal of this assignment was to demonstrate smooth UI animations, scroll-base
 ---
 
 ## 🚀 Live Demo
-👉 
+👉 https://itzfizz-scroll-hero.vercel.app/
 
 ## 📦 GitHub Repository
 👉 
