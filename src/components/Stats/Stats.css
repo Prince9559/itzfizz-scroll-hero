@@ -1,0 +1,37 @@
+.stats {
+  width: 100%;
+  padding: 80px 0;
+  background: #e10600;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  text-align: center;
+}
+
+.stat-box h2 {
+  font-size: 56px;
+  color: #ffffff;
+}
+
+.stat-box p {
+  font-size: 14px;
+  color: #ffd6d6;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+  .stats {
+    flex-direction: column;
+    gap: 40px;
+    padding: 60px 0;
+  }
+
+  .stat-box h2 {
+    font-size: 42px;
+  }
+
+  .stat-box p {
+    font-size: 12px;
+  }
+}
